@@ -12,6 +12,11 @@ header {
     text-align: center;
 }
 
+h1{
+    font-family: Georgia, serif;
+    font-style: italic;
+}
+
 nav {
     display: flex;
     justify-content: space-around;
